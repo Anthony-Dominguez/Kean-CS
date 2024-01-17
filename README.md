@@ -1,3 +1,3 @@
 # learning-repos
 
-In this Repo we learning java in my CPS1231 class at Kean University
+In this Repo i will be uploading all my work for my CS classes at Kean University
