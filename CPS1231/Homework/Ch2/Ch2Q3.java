@@ -12,8 +12,5 @@ public class Ch2Q3 {
         double kg = lb*0.454;
         System.out.println(lb + " pounds is " + kg + " kilograms");
         input.close();
-
-
-
     }
 }
