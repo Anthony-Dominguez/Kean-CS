@@ -1,0 +1,1 @@
+This Class we will be learning how to code the basics of Java. Java is a high-level, general-purpose programming language that is designed to be platform-independent, meaning it can run on any device that has a Java Virtual Machine (JVM). It was first released by Sun Microsystems in 1995 and has since become one of the most popular and widely used programming languages.
