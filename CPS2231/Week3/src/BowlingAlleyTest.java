@@ -1,7 +1,6 @@
 class BowlingAlley {
     protected String name;
     protected int numOfLanes;
-
     protected static int totalAlleys;
     private static BowlingAlley[] bowlingAlleys;
 
@@ -190,8 +189,6 @@ public class BowlingAlleyTest {
             alley.bookLane(1);;
             System.out.println("-----------------");
         }
-
-
 
     }
 
