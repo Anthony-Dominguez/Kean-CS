@@ -10,7 +10,7 @@ class Themepark {
         parkCount++;
     }
 
-    // Parameterized constructor
+    /f/ Parameterized constructor
     public Themepark(String parkName, String location, int numAttractions) {
         this.parkName = parkName;
         this.location = location;
