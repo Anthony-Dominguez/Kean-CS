@@ -1,1 +1,0 @@
-In this course, we delve into the fundamental principles of computing and programming through the lens of Java. Java stands out as a high-level, object-oriented programming language renowned for its versatility and platform independence. Developed by Sun Microsystems in 1995, Java has evolved into a cornerstone of modern software development.
