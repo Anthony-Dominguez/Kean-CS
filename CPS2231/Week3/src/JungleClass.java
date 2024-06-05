@@ -98,7 +98,7 @@ class TropicalJungle extends Jungle {
     // override
     public void displayJungleInfo(){
         super.displayJungleInfo();
-        System.out.println("Humidity: " + humidity);
+        System.out.println("Humidity: " + humidity + "%");
     }
 }
 class DecidousJungle extends Jungle {
@@ -125,24 +125,20 @@ class DecidousJungle extends Jungle {
     // override
     public void displayJungleInfo(){
         super.displayJungleInfo();
-        System.out.println("Temperature: " + temp);
+        System.out.println("Temperature: " + temp + "C");
     }
 }
 public class JungleClass {
     public static void main(String[] args) {
-
         Jungle[] jungles = new Jungle[4];
         jungles[0]= new Rainforest("Amazon Rainforest" , 50000, true );
         jungles[1]= new TropicalJungle("Daintree Rainforest", 1200, 80);
         jungles[2]= new DecidousJungle("Black forest", 16000 , 15);
         jungles[3]= new Jungle("Any Forest", 50000);
-
         for(Jungle jungle: jungles){
             jungle.displayJungleInfo();
             System.out.println("-------------------------");
         }
-
         System.out.println("Total Jungles: " + Jungle.getTotalJungle());
-
     }
 }
