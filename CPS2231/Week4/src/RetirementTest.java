@@ -99,9 +99,16 @@ public class RetirementTest{
         System.out.println("\nAfter Sorting: ");
 
         RetirementActivities.sortActivities(activities);
-        Arrays.sort(activities, Comparator.comparing(RetirementActivities::getName));
         for (RetirementActivities activity : activities){
             System.out.println(activity);
+        }
+
+        System.out.println("");
+        activities[0].enjoy();
+        System.out.println("");
+
+        if (activities[1] instanceof Relaxation) {
+            ((Relaxation) activities[1]).getMassage();
         }
 
     }
