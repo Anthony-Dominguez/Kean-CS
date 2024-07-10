@@ -1,0 +1,5 @@
+Hammer, HMR123, 12.99, 10
+Screwdriver, SDR456, 6.99, 15
+Thing1, Thing123, 9.99, 20
+Thing2, Thing456, 12.99, 10
+Wrench, WRN789, 9.99, 14

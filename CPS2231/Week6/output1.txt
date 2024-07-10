@@ -1,0 +1,5 @@
+Bagel,Bread,1.49,12
+Chocolate Donut,Glazed,2.99,5
+Iced Coffe,Beverage,3.99,15
+Pumpkin Spice Latte,Beverage,4.99,10
+Vanilla Donut,Glazed,1.99,10
